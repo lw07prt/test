@@ -1,0 +1,27 @@
+  body {
+  background-color: white;
+}
+
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: blueviolet;
+  text-align: right;
+  padding: 14px 16px;
+}
+
+li a:hover {
+  background-color: white;
+}
+
+.img{
+  float: left;
+  }
+
+.text{
+  float: right;
+}
